@@ -1,0 +1,18 @@
+{
+  "product": {
+    "id": 1,
+    "name": "iphone"
+  },
+  "accounts":[
+    {
+      "id": 1,
+      "name": "ferhat",
+      "count": 1
+    },
+    {
+      "id": 2,
+      "name": "ahmet",
+      "count": 2
+    }
+  ]
+}
